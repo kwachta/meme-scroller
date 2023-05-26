@@ -27,5 +27,5 @@ APP_ID=...
 MEASUREMENT_ID=...
 ```
 
-5. Deploy Firebase cloud function ()
+5. Deploy Firebase cloud functions
 6. Run an app
